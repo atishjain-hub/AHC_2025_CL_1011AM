@@ -1,0 +1,109 @@
+Day 1: 
+Date: 2nd June 2025
+Email id - 3
+LinkedIn - Profile
+------------------------------
+Day 2:
+Date: 3rd June 2025
+------------------------------
+What is C?
+C is a Programming Langauge
+
+Programming: instructing a computer system using a Programming language for performing tasks.
+
+Language:
+Tool for Communication
+
+------------------------------
+Day 3:
+Date: 4th June 2025
+------------------------------
+Structure of C Program
+
+
+keywords(32) + Syntax + Pre-defined functions ---> library files (29 - header files)
+
+
+1. Comment lines
+2. header files
+3. main() function
+   3.1 statements
+
+
+a=10
+b=20
+c=a+b
+print c - 30
+
+x="Ravi"
+y="Kumar"
+z=x+y
+print z - RaviKumar
+
+Datatype
+
+
+Text Editor + Compiler + Library Files +Keywords = IDE
+
+
+Home Work:
+----------
+
+------------------------------
+Day 4:
+Date: 5th June 2025
+------------------------------
+Hello World
+
+
+------------------------------
+Day 5:
+Date: 6th June 2025
+------------------------------
+variations of printf()
+syntax 1:
+  printf("Message");
+
+
+syntax 2:
+  printf(value of the variable);
+  printf("format specifier",variable_name)
+
+int - %d
+float - %f
+char - %c
+double - %lf
+
+syntax 3:
+  printf(message+value of the variable);
+
+------------------------------
+Day 6:
+Date: 7th June 2025
+------------------------------
+Programming Examples
+
+
+------------------------------
+Day 7:
+Date: 9th June 2025
+------------------------------
+Programing Examples
+
+
+------------------------------
+Day 8:
+Date: 10th June 2025
+------------------------------
+How many c files are created?
+
+------------------------------
+Day 9:
+Date: 11th June 2025
+------------------------------
+char datatype is used to store character data
+character data is represented in single quotes ' '
+string data(group of characters) are represented in double quotes " "
+ex:
+'M' - char type
+"Atish" - string type
