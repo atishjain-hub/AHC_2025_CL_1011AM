@@ -107,3 +107,71 @@ string data(group of characters) are represented in double quotes " "
 ex:
 'M' - char type
 "Atish" - string type
+
+------------------------------
+Day 10:
+Date: 12th June 2025
+------------------------------
+Write a program to read a mobile no and display
+
+
+how to declare a variable:
+
+full syntax:
+[storage class] [modifiers] <datatpye> <variable_name> = [value]
+
+
+[] - optional
+<> - compulsary
+
+ex:
+int no;
+
+------------------------------
+Day 11:
+Date: 13th June 2025
+------------------------------
+
+escape sequence characters
+\n
+\t
+\"
+\'
+\b
+\r
+
+
+Typecasting is of 2 types:
+1. implicit
+2. explicit
+
+implicit:
+--------
+int x=10;
+float y=x;
+
+
+printf("The Result is:%d",c);
+
+scanf("%d",a);
+
+printf("Result is:%d",&c);
+
+--------------------------------
+
+
+"Code Finisher Award"
+1. Computer Basics
+2. PBLT
+3. C Language
+4. CodeChef
+5. CodeTantra Centerficate
+
+
+"Campus Ambassador"
+
+------------------------------
+Day 12:
+Date: 14th June 2025
+------------------------------
+Control structures.....
