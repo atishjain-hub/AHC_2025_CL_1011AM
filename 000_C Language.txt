@@ -213,3 +213,53 @@ Date: 19th June 2025
 
 2. switch - case
 
+------------------------------
+Day 17:
+Date: 20th June 2025
+------------------------------
+
+Write a Program to check whether the inputted year is leap year or not.
+
+ex: 1996 --> 2000 --> 2100
+
+if(year%4==0)
+
+------------------------------
+Day 18:
+Date: 21st June 2025
+------------------------------
+
+------------------------------
+Day 19:
+Date: 23rd June 2025
+------------------------------
+
+Introduction to Loops
+
+------------------------------
+Day 20:
+Date: 24th June 2025
+------------------------------
+
+1. Write a Program to read a name and display the name length many times.
+   Input: RAVI
+   
+   Output:
+   1.RAVI
+   2.RAVI
+   3.RAVI
+   4.RAVI
+
+------------------------------
+Day 21:
+Date: 25th June 2025
+------------------------------
+
+Write a Program to count no of digits from the inputted no:
+
+ex:
+input: 123
+output: 3
+
+input: 25678
+output: 5
