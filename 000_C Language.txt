@@ -263,3 +263,66 @@ output: 3
 
 input: 25678
 output: 5
+
+------------------------------
+Day 22:
+Date: 27th June 2025
+------------------------------
+
+input:
+12 23
+
+output:
+25
+
+
+scanf("%d%d",a&,&b);
+
+printf("%d",(a+b));
+
+
+ex2:
+
+scanf("%d%d",a&,&b);
+
+if(a>b)
+   printf("%d",a);
+else
+   printf("%d",b);
+
+
+
+12
+12
+
+----------------
+write a program to print 1 to 100 nos using logical loop
+
+
+------------------------------
+Day 23:
+Date: 28th June 2025
+------------------------------
+Loops Based on Condition:
+1. Count Controlled
+   - for
+
+2. Condition Controlled
+   - while
+   - do while
+
+loops based on entry and exit
+-----------------------------
+Pre tested
+ - while
+ - for
+
+Post Tested
+ - do while
+
+
+ keywords for loops:
+ while,do,for
+
+
+ input for reading num,ec,oc,esum,osum
