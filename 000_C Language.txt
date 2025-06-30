@@ -326,3 +326,16 @@ Post Tested
 
 
  input for reading num,ec,oc,esum,osum
+
+ ------------------------------
+Day 24:
+Date: 30th June 2025
+------------------------------
+What is prime no?
+
+a) the nos which are divisible by 1 and ifself only are known as
+   prime nos
+   
+   or
+
+ b) the nos which as only 2 factors are called numbers
