@@ -339,3 +339,34 @@ a) the nos which are divisible by 1 and ifself only are known as
    or
 
  b) the nos which as only 2 factors are called numbers
+
+------------------------------
+Day 25:
+Date: 1st July 2025
+------------------------------
+
+input: 125
+1 + 2 + 5 = 134
+
+153= 1+125+27 = 153
+
+
+
+
+*
+* *
+* * *
+* * * *
+* * * * *
+
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+
+1
+2 2
+3 3 3 
+4 4 4 4
+5 5 5 5 5
