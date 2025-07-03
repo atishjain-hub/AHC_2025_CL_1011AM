@@ -375,3 +375,20 @@ input: 125
 Day 26:
 Date: 2nd July 2025
 ------------------------------
+1. intro to programming
+2. intro to c
+   a. strucutre of c
+   b. variables
+   c. datatypes
+   d. misc
+3. programming constructs
+   a. sequence
+   b. selection
+   c. loops
+
+int x[10];
+
+------------------------------
+Day 27:
+Date: 3rd July 2025
+------------------------------
