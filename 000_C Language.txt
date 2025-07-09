@@ -435,3 +435,37 @@ char x[50];
 int a[10];
 
 
+------------------------------
+Day 30:
+Date: 7th July 2025
+------------------------------
+
+
+------------------------------
+Day 31:
+Date: 8th July 2025
+------------------------------
+no of words count:
+
+input:
+welcome
+
+otuput:4
+
+
+varname=strlen(names);
+
+------------------------------
+Day 32:
+Date: 9th July 2025
+------------------------------
+functions in c
+--------------
+
+
+1. fill the array in randomnumbers
+2. display - 10 lines
+3. sort in ascending order
+4. display - 10 lines
+5. sort in descending order
+6. display - 10 lines
