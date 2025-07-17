@@ -481,3 +481,67 @@ Day 32:
 Date: 11th July 2025
 ------------------------------
 1. biggest of 2 nos using functions
+
+------------------------------
+Day 33:
+Date: 12th July 2025
+------------------------------
+---------
+Recursion
+---------
+
+
+main()  --> calling function
+{
+  //read a,b
+  
+  int res=sum(a,b,); - called function
+
+}
+
+int sum(int x,int y) //func def
+{
+ //code
+ sum(x,y); // recursion
+
+ }
+
+
+declaraing a variable:
+
+short int x;
+
+storage classes modifiers datatype varname
+
+
+------------------------------
+Day 34:
+Date: 14th July 2025
+------------------------------
+pointers
+
+
+
+------------------------------
+Day 35:
+Date: 15th July 2025
+------------------------------
+string display
+
+
+int *p;
+
+n=10
+p=(int *)malloc(n*sizeof(n))
+
+------------------------------
+Day 36:
+Date: 16th July 2025
+------------------------------
+Introduction to structures
+
+------------------------------
+Day 37:
+Date: 17th July 2025
+------------------------------
+Advanced topics in structures
