@@ -545,3 +545,12 @@ Day 37:
 Date: 17th July 2025
 ------------------------------
 Advanced topics in structures
+
+
+------------------------------
+Day 38:
+Date: 18th July 2025
+------------------------------
+Command Line Arguments
+&
+Binary Files
